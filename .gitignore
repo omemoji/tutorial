@@ -4,3 +4,4 @@
 !*.*
 # Others
 .DS_Store
+target/
