@@ -1,0 +1,6 @@
+# ignore executable files
+*
+!*/
+!*.*
+# Others
+.DS_Store
