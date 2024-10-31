@@ -11,3 +11,9 @@
 ![](./images/ts-logo-128.png)
 
 [サバイバル TypeScript](https://typescriptbook.jp/)
+
+## Go
+
+<img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" width=128>
+
+[Tutorials - The Go Programming Language](https://go.dev/doc/tutorial/)
